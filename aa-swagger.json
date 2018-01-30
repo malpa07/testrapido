@@ -1,1 +1,1 @@
-[object Object]
+{"info":{"title":"aa","version":"1.0.0","description":"aaa"},"schemes":["http"],"host":"localhost:9001","basePath":"/","swagger":"2.0","paths":{"/root/test":{"get":{"tags":["api"],"summary":"aaa","description":"","consumes":["application/json","application/xml"],"parameters":[{"name":"test","in":"body","description":"","required":true,"schema":{"type":"array","items":{"$ref":"#/definitions/test"}}}],"responses":{}}}},"definitions":{"test":{"type":"object","properties":{}}}}
